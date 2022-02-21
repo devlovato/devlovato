@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there! 👋
 I'm Eduardo 
 <br>
 <div style="display:inline-block;background-image: linear-gradient(to top, #25293e, #1f233f, #181e40, #121841, #0b1241);width:100%;height:100%;">
