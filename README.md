@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Eduardo 
-<br>
-<div style="display:inline-block;background-image: linear-gradient(to top, #25293e, #1f233f, #181e40, #121841, #0b1241);width:100%;height:100%;">
+
+
+## Eu sou o Eduardo 👋
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+<div style="display:inline-block;">
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=algolia )
@@ -28,5 +34,6 @@ I'm Eduardo
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
+<img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
