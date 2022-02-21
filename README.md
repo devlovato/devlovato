@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=algolia )
 
 <hr>
+  
 <strong style="font-size:22px;">Tecnologias que eu utilizo</strong>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=blue">
@@ -36,4 +37,7 @@ Here are some ideas to get you started:
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
+<hr>
+
 
