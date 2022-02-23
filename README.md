@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>I'm Eduardo 👋</h1>
 
-<h2><strong>I'm a ADS' Student and Developer! 🙃</strong></h2>
+# I'm a ADS' Student and Developer! 🙃
 <ul style="margin-top:10px">
 <li><strong>💻 I'm currently studying ADS</strong> </li>
 <li><strong>🌱 I'm currently learning everthing</strong></li>
