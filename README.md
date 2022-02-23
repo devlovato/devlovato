@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Eduardo 👋
+<h1>I'm Eduardo 👋</h1>
 
 <h2><strong>I'm a ADS' Student and Developer! 🙃</strong></h2>
 <ul style="margin-top:10px">
