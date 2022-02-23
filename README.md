@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div style="display:inline-block;">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=algolia )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=dracula)
 
 <hr>
   
