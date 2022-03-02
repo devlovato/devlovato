@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1>I'm Eduardo 👋</h1>
+--><h1>I'm Eduardo 👋</h1>
 
 ## I'm a ADS' Student and Developer! 🙃
 
@@ -25,8 +24,6 @@ Here are some ideas to get you started:
 <li><strong>⚡ Fun fact: I like study all the time</strong></li><br>
 </ul>
 <strong style="font-size:28px;">Languages:</strong>
-<br>
-
 <div style="display: inline_block;"><br>
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
@@ -42,7 +39,6 @@ Here are some ideas to get you started:
 ![Eduardo's GitHub](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=blueberry)
 
 <h2><strong>Connect with me:</strong></h2>
-<br>
 <div>
 <a href="https://www.linkedin.com/in/eduardo-silva17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "lovato.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
