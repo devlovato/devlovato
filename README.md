@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1>I'm Eduardo 👋</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
 # I'm a ADS' Student and Developer! 🙃
+
 <ul style="margin-top:10px">
 <li><strong>💻 I'm currently studying ADS</strong> </li>
 <li><strong>🌱 I'm currently learning everthing</strong></li>
@@ -26,6 +27,23 @@ Here are some ideas to get you started:
 <br>
 </ul>
 
+<strong style="font-size:22px;">Languages:</strong>
+<br>
+
+<div style="display: inline_block;"><br>
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="width:50px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+<div style="display:inline-block;">
+<br> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=blueberry)
+
 <h2><strong>Connect with me:</strong></h2>
 <br>
 
@@ -33,17 +51,3 @@ Here are some ideas to get you started:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-<div style="display:inline-block;">
-<br> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlovato&show_icons=true&theme=dracula)
-
-<strong style="font-size:22px;">Languages:</strong>
-<br>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
