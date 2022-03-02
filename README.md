@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>I'm Eduardo 👋</h1>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 # I'm a ADS' Student and Developer! 🙃
 <ul style="margin-top:10px">
 <li><strong>💻 I'm currently studying ADS</strong> </li>
