@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1>I'm Eduardo 👋</h1>
+--><h1>I'm Eduardo 👋</h1>
 
 ## I'm a ADS' Student and Developer! 🙃
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 <li><strong>💻 I'm currently studying ADS</strong> </li>
 <li><strong>🌱 I'm currently learning everthing</strong></li>
 <li><strong>🚀 2022 Goals: Learn More and More</strong></li>
-<li><strong>⚡ Fun fact: I like study all the time</strong></li><br>
+<li><strong>⚡ Fun fact: I like study all the time</strong></li>
 </ul>
 
 ## Languages:
