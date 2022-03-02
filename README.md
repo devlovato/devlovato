@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1>I'm Eduardo 👋</h1>
 
 ## I'm a ADS' Student and Developer! 🙃
@@ -25,8 +24,7 @@ Here are some ideas to get you started:
 <li><strong>🚀 2022 Goals: Learn More and More</strong></li>
 <li><strong>⚡ Fun fact: I like study all the time</strong></li><br>
 </ul>
-
-<strong style="font-size:24px;">Languages:</strong>
+<strong style="font-size:28px;">Languages:</strong>
 <br>
 
 <div style="display: inline_block;"><br>
@@ -49,4 +47,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/eduardo-silva17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "lovato.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
