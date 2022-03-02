@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1>I'm Eduardo 👋</h1>
+-->
+<h1>I'm Eduardo 👋</h1>
 
 ## I'm a ADS' Student and Developer! 🙃
 
@@ -23,7 +24,9 @@ Here are some ideas to get you started:
 <li><strong>🚀 2022 Goals: Learn More and More</strong></li>
 <li><strong>⚡ Fun fact: I like study all the time</strong></li><br>
 </ul>
-<strong style="font-size:28px;">Languages:</strong>
+
+## Languages:
+
 <div style="display: inline_block;"><br>
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
