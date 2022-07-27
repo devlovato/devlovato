@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <li><strong>🚀 2022 Goals: Learn More and More</strong></li>
 <li><strong>⚡ Fun fact: I like study all the time</strong></li>
 <li><strong>🥰 Cloud Computing</strong></li>  
-<li><strong>✍️ Studying for the AZ-900 Certification </strong></li>  
+<li><strong>✍️ Studying for the SC-900 Certification </strong></li>  
   
 </ul>
 
