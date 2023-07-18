@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá, eu sou o Edu!
 <!--
 **devlovato/devlovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,12 +18,9 @@ Here are some ideas to get you started:
 
 <ul style="margin-top:10px; font-size:18px">
 <li><strong>💻 I'm currently studying ADS</strong> </li>
-<li><strong>🌱 I'm currently learning everthing</strong></li>
 <li><strong>🚀 2022 Goals: Learn More and More</strong></li>
 <li><strong>⚡ Fun fact: I like study all the time</strong></li>
 <li><strong>🥰 Cloud Computing</strong></li>  
-<li><strong>✍️ Studying for the SC-900 Certification </strong></li>  
-  
 </ul>
 
 ## Languages:
