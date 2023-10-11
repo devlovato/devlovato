@@ -1,4 +1,4 @@
-### Olá, eu sou o Edu!
+### Olá, seja bem-vindo(a) !!
 <!--
 **devlovato/devlovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1>I'm Eduardo 👋</h1>
 
 <ul style="margin-top:10px; font-size:18px">
 <li><strong>💻 Cursando Defesa Cibernética</strong> </li>
