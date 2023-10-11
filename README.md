@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1>I'm Eduardo 👋</h1>
 
-## I'm a ADS' Student and Developer! 🙃
-
 <ul style="margin-top:10px; font-size:18px">
-<li><strong>💻 I'm currently studying ADS</strong> </li>
-<li><strong>🚀 2022 Goals: Learn More and More</strong></li>
-<li><strong>⚡ Fun fact: I like study all the time</strong></li>
-<li><strong>🥰 Cloud Computing</strong></li>  
+<li><strong>💻 Cursando Defesa Cibernética</strong> </li>
+<li><strong>⚡ Amo estudar e aprender coisas novas</strong></li>
+<li><strong>🥰 Apaixonado por Computação em Nuvem e Segurança</strong></li>  
 </ul>
 
 ## Languages:
