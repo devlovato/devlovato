@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 <ul style="margin-top:10px; font-size:18px">
 <li><strong>💻 Cursando Defesa Cibernética</strong> </li>
 <li><strong>⚡ Amo estudar e aprender coisas novas</strong></li>
