@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) !!
+### Oieee, seja bem-vindo(a) !!!
 <!--
 **devlovato/devlovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <ul style="margin-top:10px; font-size:18px">
 <li><strong>💻 Cursando Defesa Cibernética</strong> </li>
-<li><strong>⚡ Amo estudar e aprender coisas novas</strong></li>
+<li><strong>☁️ Cloud Computing, Data & AI</strong></li>
 <li><strong>🥰 Apaixonado por Computação em Nuvem e Segurança</strong></li>  
 </ul>
 
-## Languages:
+## Linguagens:
 
 <div style="display: inline-block;">
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -39,6 +39,5 @@ Here are some ideas to get you started:
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
-<a href="https://www.linkedin.com/in/eduardo-silva17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "lovato.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/imedu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
